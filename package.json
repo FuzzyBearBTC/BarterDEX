@@ -28,7 +28,7 @@
   "dependencies": {
     "bip39": "^2.5.0",
     "bluebird": "^3.5.1",
-    "fix-path": "^2.1.0",
+    "fix-path": "^4.0.0",
     "fs-extra": "^4.0.3",
     "mkdirp": "^0.5.1",
     "portscanner": "^2.2.0",
