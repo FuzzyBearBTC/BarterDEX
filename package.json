@@ -26,7 +26,7 @@
     "electron-packager": "^12.1.0"
   },
   "dependencies": {
-    "bip39": "^2.5.0",
+    "bip39": "^3.1.0",
     "bluebird": "^3.5.1",
     "fix-path": "^2.1.0",
     "fs-extra": "^4.0.3",
